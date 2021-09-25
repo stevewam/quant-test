@@ -15,7 +15,6 @@ print("Hello")
 
 print("Hello") # comment
 print("Hello")
-print("Hello")
 
 # comment
 
